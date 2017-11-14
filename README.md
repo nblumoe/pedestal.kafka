@@ -5,7 +5,7 @@
 Pedestal interceptors and chain provider for Kafka applications.
 
 A Pedestal
-[chain provider](https://io.pedestal/reference/chain-provider)
+[chain provider](http://pedestal.io/reference/chain-providers)
 connects a network library or container to an application via
 interceptors. The chain provider creates the execution context and
 invokes a stack of interceptors.
